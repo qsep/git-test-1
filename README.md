@@ -1,3 +1,4 @@
 #git_test
 My very first git repo
-Hello Odin! 34323
+Hello Odin! 
+This is my first piece of code. GLHF
